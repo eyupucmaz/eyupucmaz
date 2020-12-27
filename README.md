@@ -2,8 +2,7 @@
 
 I'm Eyup. I'm front-end developer.
 
-- 🔭 I’m currently working on an Mission Control System which is create a mission then add a team for the work on.
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about anything you want
 - 📫 How to reach me: [eyupucmaz@gmail.com](mailto://eyupucmaz@gmail.com)
 
