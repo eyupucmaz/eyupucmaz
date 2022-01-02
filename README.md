@@ -6,5 +6,6 @@ I'm Eyup. I'm front-end developer.
 - 💬 Ask me about anything you want
 - 📫 How to reach me: [eyupucmaz@gmail.com](mailto://eyupucmaz@gmail.com)
 
+[![Eyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupucmaz)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Eyup's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupucmaz&theme=tokyonight)
-![Eyups's github stats](https://github-readme-stats.vercel.app/api?username=eyupucmaz&show_icons=true&theme=tokyonight)
