@@ -1,7 +1,7 @@
 
 <h1 align="center> 
    <a href="https://github.com/khalby786/REHeader">
-      <img src="./header.png" alt="Hello, I'm Eyup">
+      <img src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/master/header.png" alt="Hello, I'm Eyup">
     </a>
 </h1>
 
