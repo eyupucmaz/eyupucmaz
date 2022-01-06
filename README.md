@@ -35,7 +35,7 @@
 
 
 <hr>
-  <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+  <h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
   <br>
   <p align="center">
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/img/javascript.svg"></code>
@@ -50,7 +50,15 @@
     <code><img title="npm" height="25" src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/img/npm.svg"></code>
   </p>
 <hr>
-
+  <h2 align="center">🚀 Technologies I'll learn in 2022 🚀</h2>
+  <div align="center">
+      GraphQL, 
+      TypeScript,
+      Vite,
+      React Native
+  </div>
+  <br>
+<hr>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
