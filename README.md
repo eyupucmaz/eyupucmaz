@@ -55,6 +55,7 @@
   <div align="center">
       GraphQL, 
       TypeScript,
+      ECMAScript 2022,
       Vite,
       React Native
   </div>
