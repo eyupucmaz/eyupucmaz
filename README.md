@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    Just a regular everyday normal JavaScript Developer from Turkey 
+    Just a regular everyday normal Frontend Developer from Turkey 
     <br>
     <br>
     🎓 I graduated from Tokat Gaziosmanpasa University with bachelor's degree.
