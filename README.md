@@ -20,8 +20,7 @@
     Just a regular everyday normal Frontend Developer from Turkey 
     <br>
     <br>
-    🎓 I graduated from Tokat Gaziosmanpasa University with bachelor's degree.
-    <br>
+  
     💻 I love writing code and learn anythings about it
     <br>
     📚 I’m currently learning how to build web app with ReactJS
