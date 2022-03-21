@@ -9,18 +9,20 @@
 
 <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/eyupucmaz/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/65e782baf793b41165a4f0038a59b7bbce3348d9/img/linkedin.svg"></a></code>   
-    <code><a href="https://stackoverflow.com/users/10873097/eyup-ucmaz" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/65e782baf793b41165a4f0038a59b7bbce3348d9/img/stackoverflow.svg"></a></code>
-  
-  </h5>
-  <br>
-
+       <a href="https://www.linkedin.com/in/eyupucmaz/" title="LinkedIn Profile">
+       <img width="22" src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/65e782baf793b41165a4f0038a59b7bbce3348d9/img/linkedin.svg">
+       </a>
+   </code>   
+    <code>
+       <a href="https://stackoverflow.com/users/10873097/eyup-ucmaz" title="Stack Overflow Profile">
+          <img width="22" src="https://raw.githubusercontent.com/eyupucmaz/eyupucmaz/65e782baf793b41165a4f0038a59b7bbce3348d9/img/stackoverflow.svg">
+       </a>
+   </code>
+</h5>
 
 <p align="center">
     Just a regular everyday normal Frontend Developer from Turkey 
-    <br>
-    <br>
-  
+    <br>  
     💻 I love writing code and learn anythings about it
     <br>
     📚 I’m currently learning how to build web app with ReactJS
@@ -28,7 +30,7 @@
     💬 Ask me anything about from <a href="https://github.com/eyupucmaz/eyupucmaz/issues" title="Issues">Here</a>
     <br>
     📫 How to reach me: <a href="mailto: eyupucmaz@gmail.com">eyupucmaz@gmail.com</a>
-  </p>
+ </p>
 
 
 
