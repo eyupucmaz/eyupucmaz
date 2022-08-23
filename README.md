@@ -21,7 +21,7 @@
 </h5>
 
 <p align="center">
-    Hey! I'm frontend developer based in Turkey!
+    I'm frontend developer based in Turkey!
     <br>  
     💻 I love writing code and learn anythings about it
     <br>
