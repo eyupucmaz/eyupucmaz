@@ -7,20 +7,6 @@
    <hr>
 
 
-
-<p align="center">
-    I'm frontend developer based in Turkey!
-    <br>  
-    💻 I love writing code and learn anythings about it
-    <br>
-    📚 I’m currently learning how to build web app with ReactJS
-    <br>
-    💬 Ask me anything about from <a href="https://github.com/eyupucmaz/eyupucmaz/issues" title="Issues">Here</a>
-    <br>
-    📫 How to reach me: <a href="mailto: eyupucmaz@gmail.com">eyupucmaz@gmail.com</a>
- </p>
-
-
 # 💫 About Me:
 I'm a front-end developer based in Turkey!<br>💻 I love writing code and learning anything about it<br>📚 I’m currently learning how to build a web app with ReactJS<br>💬 Ask me anything about from <a href="https://github.com/eyupucmaz/eyupucmaz/issues" title="Issues">Here</a><br>📫 How to reach me: eyupucmaz@gmail.com
 
