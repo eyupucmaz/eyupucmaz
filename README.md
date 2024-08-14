@@ -23,5 +23,5 @@ I'm a frontend engineer based in Turkey!<br>💻 I love writing code and learnin
 
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupucmaz" alt="eyupucmaz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupucmaz&theme=algolia" alt="eyupucmaz" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupucmaz&label=Profile%20views&color=0e75b6&style=flat" alt="eyupucmaz" /> </p>
