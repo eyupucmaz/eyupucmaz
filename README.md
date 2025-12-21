@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-I'm a frontend engineer based in Turkey!<br>💻 I love writing code and learning anything about it<br>💬 Ask me anything about from <a href="https://github.com/eyupucmaz/eyupucmaz/issues" title="Issues">Here</a><br>📫 How to reach me: eyupucmaz@gmail.com
+I'm a frontend engineer based in Turkiye!<br>💻 I love writing code and learning anything about it<br>💬 Ask me anything about from <a href="https://github.com/eyupucmaz/eyupucmaz/issues" title="Issues">Here</a><br>📫 How to reach me: eyupucmaz@gmail.com
 
 
 ## 🌐 Socials:
